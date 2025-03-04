@@ -37,10 +37,6 @@
 ---
 
 ### Tech Stack:
--  📌 [JsWithJonas](https://github.com/Abdelrahman122003/JsWithJonas)
----
-
-### Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
