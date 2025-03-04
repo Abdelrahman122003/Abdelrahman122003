@@ -1,5 +1,8 @@
 <h1 align="center">Take action, not just talk</h1>
 
+### About:
+
+---
 
 ### Reach Me: 
 
@@ -12,6 +15,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
+---
+
+<h3> 💻 &nbsp;Top Projects : </h3>
+
+- 1. 🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
+- 2. 📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) ➡ Mobile App for notes.
+- 3. 🏥 [Hospital Lifecycle](https://github.com/MustafaAhmed313/hospital-simulation) ➡ Simulation model for patients in a hospital.
+
+---
+
+<h3> 📓 &nbsp;Top Notes : </h3>
+
+-  📌 [JsWithJonas](https://github.com/Abdelrahman122003/JsWithJonas)
 ---
 
 ### Tech Stack:
