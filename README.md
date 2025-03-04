@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/abdelrhman-sayed-505478240/"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href ="abdelrhmansayed122003@gmail.com"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.hackerrank.com/profile/abdelrhmansayed4"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
@@ -63,19 +65,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abdelrahman122003/Abdelrahman122003/output/snake.svg" alt="Snake animation" />
-
-###
-
-<figure><embed src="https://wakatime.com/share/@9415ba20-37b4-4c6b-abf2-dd6e06c6011a/0a21d587-1cbf-4434-b700-80c1da53bebd.svg"></embed></figure>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman122003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Abdelrahman122003&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman122003&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Abdelrahman122003&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abdelrahman122003/Abdelrahman122003/output/snake.svg" alt="Snake animation" />
 
 ###
