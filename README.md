@@ -1,6 +1,8 @@
 <h1 align="center">Take action, not just talk</h1>
 
-###
+---
+
+### Reach Me: 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-sayed-505478240/"/>
@@ -11,7 +13,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
-###
+---
+
+### Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
