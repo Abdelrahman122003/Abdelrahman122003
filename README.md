@@ -27,12 +27,12 @@
 
 <h3> 📓 &nbsp;Top Notes : </h3>
 
--  📌 [JsWithJonas](https://github.com/Abdelrahman122003/JsWithJonas)
--  📌 [DevopsEngineering](https://github.com/Abdelrahman122003/DevopsEngineering)
--  📌 [versionControl](https://github.com/Abdelrahman122003/versionControl)
--  📌 [dataStructure](https://github.com/Abdelrahman122003/dataStructure)
--  📌 [LeetcodeProblemSolving](https://github.com/Abdelrahman122003/LeetcodeProblemSolving)
--  📌 [practiceDatabase](https://github.com/Abdelrahman122003/practiceDatabase)
+-  📌 [Js With Jonas](https://github.com/Abdelrahman122003/JsWithJonas)
+-  📌 [Devops Engineering](https://github.com/Abdelrahman122003/DevopsEngineering)
+-  📌 [Version Control](https://github.com/Abdelrahman122003/versionControl)
+-  📌 [Data Structure](https://github.com/Abdelrahman122003/dataStructure)
+-  📌 [Leetcode Problem Solving](https://github.com/Abdelrahman122003/LeetcodeProblemSolving)
+-  📌 [Practice Database](https://github.com/Abdelrahman122003/practiceDatabase)
 
 ---
 
