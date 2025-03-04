@@ -43,9 +43,10 @@ I'm Abdelrahman, a final-year Computer Science student at Cairo University, cont
 
 <h3> 💻 &nbsp;Top Projects : </h3>
 
-- 1. 🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
-- 2. 📔 [Note Taker](https://github.com/MustafaAhmed313/Note-Taker/releases/tag/v1.0.0) ➡ Mobile App for notes.
-- 3. 🏥 [Hospital Lifecycle](https://github.com/MustafaAhmed313/hospital-simulation) ➡ Simulation model for patients in a hospital.
+-  🆑i [switchy](https://www.npmjs.com/package/switchy-cli) ➡ npm package.
+-  📚 [Book Store](https://github.com/Abdelrahman122003/Book-Store) ➡ Web App Book Store.
+-  🏥 [Orders Notification Managemnt Application
+](https://github.com/Abdelrahman122003/Orders_Notification_Managemnt_Project) ➡ Web App Orders Notification Managemnt.
 
 ---
 
