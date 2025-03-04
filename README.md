@@ -1,6 +1,5 @@
 <h1 align="center">Take action, not just talk</h1>
 
----
 
 ### Reach Me: 
 
@@ -88,7 +87,7 @@
 
 ---
 
-###
+### Wakatime Stats:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9415ba20-37b4-4c6b-abf2-dd6e06c6011a/eb14617e-3d09-42d1-9ed0-63a386bce662.png" /></a>
 
