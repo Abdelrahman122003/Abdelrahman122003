@@ -1,10 +1,16 @@
 <h1 align="center">Take action, not just talk</h1>
 
-### About:
+
+<div align="center">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdelrahman122003?logo=github">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Abdelrahman122003?logo=github">
+</div>
+
+<h3> 🤵 &nbsp;About me : </h3>
 
 ---
 
-### Reach Me: 
+<h3> 📫 &nbsp;How to reach me : </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-sayed-505478240/"/>
@@ -36,7 +42,7 @@
 
 ---
 
-### Tech Stack:
+<h3>🛠 &nbsp;Tech Stack :</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -90,7 +96,7 @@
 
 --- 
 
-###
+<h3> 📊 &nbsp;Github status : </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman122003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -109,7 +115,7 @@
 
 ---
 
-### Wakatime Stats:
+<h3> 📊 &nbsp;Wakatime status : </h3>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9415ba20-37b4-4c6b-abf2-dd6e06c6011a/eb14617e-3d09-42d1-9ed0-63a386bce662.png" /></a>
 
