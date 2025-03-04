@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
+--- 
+
 ###
 
 <div align="center">
@@ -72,10 +74,20 @@
   <img src="https://github-profile-trophy.vercel.app?username=Abdelrahman122003&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+---
+
 ###
 
 <br clear="both">
 
 <img src="https://github.com/Abdelrahman122003/Abdelrahman122003/.github/workflows/snake.yml" alt="Snake animation" />
+
+---
+
+###
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9415ba20-37b4-4c6b-abf2-dd6e06c6011a/eb14617e-3d09-42d1-9ed0-63a386bce662.png" /></a>
+
+---
 
 ###
