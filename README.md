@@ -16,9 +16,9 @@
 
 <div>
     <p>
-        I am a final-year Computer Science student at Cairo University, continuously striving to enhance my problem-solving skills and delve deeper into the field of computer science. I am passionate about tackling challenges, especially in backend development, and remain persistent in expanding my knowledge and skills despite obstacles.
+I'm Abdelrahman, a final-year Computer Science student at Cairo University, continuously striving to enhance my problem-solving skills and delve deeper into the field of computer science. I am passionate about tackling challenges, especially in backend development, and remain persistent in expanding my knowledge and skills despite obstacles.  
     </p>
-    <li>🎓 Computer Science student at Faculty Of Computer Science</li>
+    <li>🎓 Computer Science student at the Faculty of Computer Science and AI</li>
     <li>✨ Interested in Backend Development.</li>
     <li>♾️ aiming to become a Software Engineer</li>
 </div>
