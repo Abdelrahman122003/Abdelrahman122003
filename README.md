@@ -14,6 +14,18 @@
 
 <h3> 🤵 &nbsp;About me : </h3>
 
+<div>
+    <p>
+        I am a final-year Computer Science student at Cairo University, continuously striving to enhance my problem-solving skills and delve deeper into the field of computer science. I am passionate about tackling challenges, especially in backend development, and remain persistent in expanding my knowledge and skills despite obstacles.
+    </p>
+    <li>🎓 Computer Science student at Faculty Of Computer Science</li>
+    <li>✨ Interested in Backend Development.</li>
+    <li>♾️ aiming to become a Software Engineer</li>
+</div>
+
+
+
+
 ---
 
 <h3> 📫 &nbsp;How to reach me : </h3>
