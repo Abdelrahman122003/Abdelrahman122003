@@ -6,11 +6,11 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Abdelrahman122003?logo=github">
 </div>
 
-
+<br>
 
 <p align="center" style="margin: 10px 0">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=👋+Hello,+dear+visitor!;💀+I'm+a+Zoombie!;🧠+Code+is+my+fuel!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Inline&&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=👋+Hello,+dear+visitor!;💀+I'm+a+Zoombie!;🧠+Code+is+my+fuel!" alt="Typing SVG" />
     </a>
 </p>
 
