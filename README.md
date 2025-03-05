@@ -1,5 +1,6 @@
 <h1 align="center">Take action, not just talk</h1>
 
+<br>
 
 <div align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdelrahman122003?logo=github">
@@ -124,14 +125,6 @@ Additionally, I have four months of experience as a DevOps engineer at DEPI, whe
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman122003&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
     <img src="https://github-profile-trophy.vercel.app?username=Abdelrahman122003&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
----
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/Abdelrahman122003/Abdelrahman122003/.github/workflows/snake.yml" alt="Snake animation" />
 
 ---
 
