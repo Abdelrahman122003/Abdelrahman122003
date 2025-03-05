@@ -9,7 +9,9 @@
 
 
 <p align="center" style="margin: 10px 0">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Junior+Software+Engineer👨‍💻;I'm+a+Zoombie;I'm++an+Active+Learner" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=500&lines=👋+Hello,+dear+visitor!;💀+I'm+a+Zoombie!;🧠+Code+is+my+fuel!" alt="Typing SVG" />
+    </a>
 </p>
 
 <h3> 🤵 &nbsp;About me : </h3>
