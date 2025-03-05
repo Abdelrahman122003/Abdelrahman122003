@@ -27,12 +27,9 @@ Additionally, I have four months of experience as a DevOps engineer at DEPI, whe
     <li>♾️ aiming to become a Software Engineer</li>
 </div>
 
-
-
-
----
-
-<h3> 📫 &nbsp;How to reach me : </h3>
+<div align="center">
+    <h3> 📫 Get in touch with me 📫 </h3>    
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-sayed-505478240/"/>
