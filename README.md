@@ -42,7 +42,7 @@ Additionally, I have four months of experience as a DevOps engineer at DEPI, whe
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelrhman-sayed-505478240/"/>
+  <a href="https://www.linkedin.com/in/abdelrahman-sayed-505478240/"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href ="abdelrhmansayed122003@gmail.com"/>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
