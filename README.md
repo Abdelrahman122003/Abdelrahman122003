@@ -50,7 +50,7 @@ I'm Abdelrahman, a final-year Computer Science student at Cairo University, cont
 - 💸 [Instapay App](https://github.com/Abdelrahman122003/Instapay-consoleApp) ➡ Instapay console App 
 ---
 
-<h3> 📓 &nbsp;Top Notes : </h3>
+<h3> 📓 &nbsp;Notes : </h3>
 
 -  📌 [Js With Jonas](https://github.com/Abdelrahman122003/JsWithJonas)
 -  📌 [Devops Engineering](https://github.com/Abdelrahman122003/DevopsEngineering)
