@@ -1,4 +1,8 @@
-<h1 align="center">Take action, not just talk</h1>
+<h1 align="center" style="margin: 10px 0">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Inline&&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello! Welcome to my hub! 🚀💻;💀+I'm+a+Zoombie!;🧠+Code+is+my+fuel!" alt="Typing SVG" />
+    </a>
+</h1>
 
 <br>
 
@@ -8,12 +12,6 @@
 </div>
 
 <br>
-
-<p align="center" style="margin: 10px 0">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Inline&&size=30&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello! Welcome to my hub! 🚀💻;💀+I'm+a+Zoombie!;🧠+Code+is+my+fuel!" alt="Typing SVG" />
-    </a>
-</p>
 
 <h3> 🤵 &nbsp;About me : </h3>
 
@@ -29,6 +27,15 @@ Additionally, I have four months of experience as a DevOps engineer at DEPI, whe
     <li>✨ Interested in Backend Development.</li>
     <li>♾️ aiming to become a Software Engineer</li>
 </div>
+
+<br>
+
+<div align="center">
+    <h3 style="color: #32CD32;">Rule 1: Take action, not just talk! ⚡</h3>
+    <h3 style="color: #32CD32;">Rule 2: Follow Rule 1! 🔄</h3>
+</div>
+
+<br>
 
 <div align="center">
     <h3> 📫 Get in touch with me 📫 </h3>    
