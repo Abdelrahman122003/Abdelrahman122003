@@ -17,7 +17,7 @@
 
 <div>
     <p>
-I'm Abdelrahman, a final-year Computer Science student at Cairo University, continuously striving to enhance my problem-solving skills and delve deeper into the field of computer science. I am passionate about tackling challenges, especially in backend development, and remain persistent in expanding my knowledge and skills despite obstacles.  
+I'm Abdelrahman, a **fresh Computer Science graduate from Cairo University**, continuously striving to enhance my problem-solving skills and delve deeper into the field of computer science. I am passionate about tackling challenges, especially in backend development, and remain persistent in expanding my knowledge and skills despite obstacles.
 
 My education has provided me with a strong foundation in object-oriented programming (OOP), data structures, algorithms, databases, operating systems, and networks. In terms of software development, I am knowledgeable in design patterns, SOLID principles, and software architecture.
 
